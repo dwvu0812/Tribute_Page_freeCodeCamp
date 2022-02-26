@@ -1,0 +1,44 @@
+
+#title {
+    font-size: 400%;
+    width: 60vmax;
+}
+
+.center {
+    margin: auto;
+    padding: auto;
+    display: block;
+}
+
+#image {
+    max-width: 30%;
+    height: auto;
+    display: block;
+  }
+#heading h1,
+#heading p {
+    text-align: center;
+    margin: 20px auto;
+    
+}
+
+#tribute-info h2,
+#img-caption {
+    text-align: center;
+    margin: 40px 0;
+}
+
+#tribute-info .list-info {
+    text-align: justify;
+    padding: 0 200px;
+}
+
+.font {
+    text-align: center;
+    font-family: Helvetica;
+}
+
+h3 a {
+    color: black;
+}
+
